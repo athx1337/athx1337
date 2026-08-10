@@ -24,6 +24,14 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white&labelColor=030303)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white&labelColor=030303)
 
+### 🛡️ Cybersecurity &amp; Pentesting Tools
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C95?style=for-the-badge&logo=Kali%20Linux&logoColor=white&labelColor=030303)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white&labelColor=030303)
+![Wireshark](https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=Wireshark&logoColor=white&labelColor=030303)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white&labelColor=030303)
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
