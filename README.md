@@ -10,31 +10,38 @@
 
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=030303)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=030303)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=030303)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=030303)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=030303)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=030303)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&labelColor=030303)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030303)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white&labelColor=030303)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&labelColor=030303)
-
-### 🛡️ Cybersecurity &amp; Pentesting Tools
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C95?style=for-the-badge&logo=Kali%20Linux&logoColor=white&labelColor=030303)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white&labelColor=030303)
-![Wireshark](https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=Wireshark&logoColor=white&labelColor=030303)
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white&labelColor=030303)
-
+<div align="center">
+    <!-- Languages & Frameworks -->
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=030303" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=030303" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=030303" /><br/>
+    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&labelColor=030303" />
+    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&labelColor=030303" /><br/>
+    <!-- Cybersecurity Tools -->
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C95?style=for-the-badge&logo=Kali%20Linux&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=Wireshark&logoColor=white&labelColor=030303" />
+    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white&labelColor=030303" />
+</div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=athx1337&theme=transparent&hide_border=true&stroke=ff0055&fire=fcee0a&ring=00f0ff"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" />
+    <table border="0">
+        <tr>
+            <td align="center" valign="middle">
+                <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" />
+            </td>
+            <td align="center" valign="middle">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
+            </td>
+        </tr>
+    </table>
 </div>
 
 ---
