@@ -2,9 +2,8 @@
     <!-- References the animated SVG stored in your assets folder -->
     <img src="./assets/cyberpunk_header.svg" width="100%" alt="athx1337 Netrunner System Header" />
 </div>
-> [!IMPORTANT]
+> [!WARNING]
 > **OBSERVING...**  
-> *“The quietest Netrunners see the most. The digital void remembers.”*  
 > `CODENAME: athx1337` | `STATUS: INCOGNITO` | `MONITORING: ACTIVE`
 
 ---
@@ -28,8 +27,8 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" /><br/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=athx1337&theme=transparent&hide_border=true&stroke=ff0055&fire=fcee0a&ring=00f0ff"/><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=athx1337&theme=transparent&hide_border=true&stroke=ff0055&fire=fcee0a&ring=00f0ff"/><br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" />
 </div>
 
 ---
