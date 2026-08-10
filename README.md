@@ -31,18 +31,10 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-    <table border="0">
-        <tr>
-            <td align="center" valign="middle">
-                <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" />
-            </td>
-            <td align="center" valign="middle">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
-            </td>
-        </tr>
-    </table>
-</div>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
+</p>
 
 ---
 
