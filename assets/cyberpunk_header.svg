@@ -44,9 +44,10 @@
       .ascii-3 { animation-delay: 1.2s; }
       .ascii-4 { animation-delay: 1.3s; }
       .ascii-5 { animation-delay: 1.4s; }
+      .ascii-6 { animation-delay: 1.5s; }
       
-      .line9 { animation-delay: 1.7s; }
-      .line10 { animation-delay: 2.0s; }
+      .line9 { animation-delay: 1.8s; }
+      .line10 { animation-delay: 2.1s; }
       
       @keyframes fadeInLine {
         from {
@@ -103,11 +104,12 @@
   <text x="30" y="100" class="text-log line3">[+] CORRUPTING NODE CORES... DECRYPTING ALIAS...</text>
   
   <!-- ASCII Art Title Banner (Staggered Load) -->
-  <text x="30" y="130" class="ascii ascii-1">    ___   ______  __  __ _  __   ____   _____  _____  _____ </text>
-  <text x="30" y="148" class="ascii ascii-2">   /   | /_  __/ / / / /| |/ /  /  _/  |__  / |__  / |___  |</text>
-  <text x="30" y="166" class="ascii ascii-3">  / /| |  / /   / /_/ / |   /   / /     /_ &lt;   /_ &lt;    / /  </text>
-  <text x="30" y="184" class="ascii ascii-4"> / ___ | / /    / __  / / /\ \  _/ /   ___/ / ___/ /   / /   </text>
-  <text x="30" y="202" class="ascii ascii-5">/_/  |_|/_/    /_/ /_/_/  \_\/___/   /____//____/   /_/      </text>
+  <text x="30" y="125" class="ascii ascii-1">        __  .__            ____________ _________________ </text>
+  <text x="30" y="142" class="ascii ascii-2">_____ _/  |_|  |__ ___  __/_   \_____  \\_____  \______  \</text>
+  <text x="30" y="159" class="ascii ascii-3">\__  \\   __\  |  \\  \/  /|   | _(__  &lt;  _(__  &lt;   /    /</text>
+  <text x="30" y="176" class="ascii ascii-4"> / __ \|  | |   Y  \&gt;    &lt; |   |/       \/       \ /    / </text>
+  <text x="30" y="193" class="ascii ascii-5">(____  /__| |___|  /__/\_ \|___/______  /______  //____/  </text>
+  <text x="30" y="210" class="ascii ascii-6">     \/          \/      \/           \/       \/         </text>
   
   <text x="30" y="235" class="text-log line9">[+] ACCESS GRANTED. HELLO CHIPPIN!</text>
   
