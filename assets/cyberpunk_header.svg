@@ -45,9 +45,10 @@
       .ascii-4 { animation-delay: 1.3s; }
       .ascii-5 { animation-delay: 1.4s; }
       .ascii-6 { animation-delay: 1.5s; }
+      .ascii-7 { animation-delay: 1.6s; }
       
-      .line9 { animation-delay: 1.8s; }
-      .line10 { animation-delay: 2.1s; }
+      .line9 { animation-delay: 1.9s; }
+      .line10 { animation-delay: 2.2s; }
       
       @keyframes fadeInLine {
         from {
@@ -104,17 +105,18 @@
   <text x="30" y="100" class="text-log line3">[+] CORRUPTING NODE CORES... DECRYPTING ALIAS...</text>
   
   <!-- ASCII Art Title Banner (Staggered Load) -->
-  <text x="30" y="125" class="ascii ascii-1">        __  .__            ____________ _________________ </text>
-  <text x="30" y="142" class="ascii ascii-2">_____ _/  |_|  |__ ___  __/_   \_____  \\_____  \______  \</text>
-  <text x="30" y="159" class="ascii ascii-3">\__  \\   __\  |  \\  \/  /|   | _(__  &lt;  _(__  &lt;   /    /</text>
-  <text x="30" y="176" class="ascii ascii-4"> / __ \|  | |   Y  \&gt;    &lt; |   |/       \/       \ /    / </text>
-  <text x="30" y="193" class="ascii ascii-5">(____  /__| |___|  /__/\_ \|___/______  /______  //____/  </text>
-  <text x="30" y="210" class="ascii ascii-6">     \/          \/      \/           \/       \/         </text>
+  <text x="30" y="125" class="ascii ascii-1"> ┌───────┐ ┌───────┐ ┌───┐ ┌─┐ ┌───┐ ┌─┐ ┌─────┐   ┌───────┐ ┌───────┐ ┌───────┐</text>
+  <text x="30" y="140" class="ascii ascii-2">═│∙  ╒═╕∙│═╘═╕∙ ·╒═╛═│∙  │═│∙│═│∙  │═│∙│═╘═╕∙  │═══│∙╒═╕  ∙│═│∙╒═╕  ∙│═│∙╒═╕  ∙│</text>
+  <text x="30" y="155" class="ascii ascii-3"> │   └─┘ │░░▒│   │▒░ │   └─┘ │ ╘╕  └─┘╒╛ ▓▓│   │░▓ └─┘┌┘   │ └─┘┌┘   │ └─┘┌┘   │</text>
+  <text x="30" y="170" class="ascii ascii-4">░│   ╒═╕ │░░▒│   │▒░░│   ╒═╕ │░┌┘  ╒═╕└┐░░░│   │▓█░┌─┐└┐   │░┌─┐└┐   │░▓▒░└┐   │</text>
+  <text x="30" y="185" class="ascii ascii-5">▒│   │░│ │░░▒│   │▒░▒│   │░│ │▒│   │░│ │▒▒▒│   │░▒▒│ │░│   │▒│ │░│   │▒▓▒░░│   │</text>
+  <text x="30" y="200" class="ascii ascii-6">═│∙  │═│∙│═══│∙ ·│═══│∙  │═│∙│═│∙  │═│∙│═┌─┘∙  └─┐═│∙╘═╛  ∙│═│∙╘═╛  ∙│═════│  ∙│</text>
+  <text x="30" y="215" class="ascii ascii-7"> ╘═══╛ ╘═╛   ╘═══╛   ╘═══╛ ╘═╛ ╘═══╛ ╘═╛ ╘═══════╛ ╘═══════╛ ╘═══════╛     ╘═══╛</text>
   
-  <text x="30" y="235" class="text-log line9">[+] ACCESS GRANTED. HELLO CHIPPIN!</text>
+  <text x="30" y="242" class="text-log line9">[+] ACCESS GRANTED. HELLO CHIPPIN!</text>
   
   <!-- Dynamic Blinking Cursor Prompt -->
-  <text x="30" y="265" class="terminal-prompt line10">athx1337@netrun:~$ <tspan fill="#FCEE0A">./observing.sh</tspan><tspan class="cursor" fill="#00f0ff">_</tspan></text>
+  <text x="30" y="270" class="terminal-prompt line10">athx1337@netrun:~$ <tspan fill="#FCEE0A">./observing.sh</tspan><tspan class="cursor" fill="#00f0ff">_</tspan></text>
   
   <!-- Scanline Overlay -->
   <rect class="scanline" width="100%" height="300" pointer-events="none" />
