@@ -2,10 +2,10 @@
     <!-- References the animated SVG stored in your assets folder -->
     <img src="./assets/cyberpunk_header.svg" width="100%" alt="athx1337 Netrunner System Header" />
 </div>
-
-> [!WARNING]
-> **SYSTEM WARNING: SECURE CORPO FIREWALL DETECTED.**
-> `NETRUNNER CODENAME: athx1337` | `RAM: OVERCLOCKED` | `BREACH STATUS: ACTIVE`
+> [!IMPORTANT]
+> **OBSERVING...**  
+> *“The quietest Netrunners see the most. The digital void remembers.”*  
+> `CODENAME: athx1337` | `STATUS: INCOGNITO` | `MONITORING: ACTIVE`
 
 ---
 
