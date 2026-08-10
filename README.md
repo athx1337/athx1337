@@ -2,9 +2,9 @@
     <!-- References the animated SVG stored in your assets folder -->
     <img src="./assets/cyberpunk_header.svg" width="100%" alt="athx1337 Netrunner System Header" />
 </div>
+
 > [!WARNING]
-> **OBSERVING...**  
-> `CODENAME: athx1337` | `STATUS: INCOGNITO` | `MONITORING: ACTIVE`
+> **OBSERVING...**
 
 ---
 
