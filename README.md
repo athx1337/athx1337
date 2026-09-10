@@ -3,11 +3,9 @@
     <img src="./assets/cyberpunk_header.svg?v=3" width="100%" alt="athx1337 Netrunner System Header" />
 </div>
 
-```text
-$ whoami
-
-athx1337
-```
+<div align="center">
+    <img src="./assets/terminal_whoami.svg" width="100%" alt="athx1337 Whoami" />
+</div>
 
 I've had computers, phones, and random tech around me since I was a kid.
 
@@ -23,37 +21,13 @@ And that's pretty much how I ended up in cybersecurity.
 
 Now I'm mostly focused on figuring out how shit works, building my own tools, breaking things in controlled environments, and learning more about security. Funny to think it all started with my dad teaching me how to search for cartoon pictures.
 
-```text
-$ echo $STATUS
+<div align="center">
+    <img src="./assets/terminal_session.svg" width="100%" alt="athx1337 Terminal Session" />
+</div>
 
-stargazing.
-```
-
-```text
-$ cat interests.txt
-
-OSINT
-RECON
-WEB SECURITY
-THREAT INTELLIGENCE
-DIGITAL FORENSICS
-REVERSE ENGINEERING
-SECURITY TOOLING
-```
-
-```text
-$ nmap -sV athx1337
-
-PORT      STATE    SERVICE
-22/tcp    open     osint
-80/tcp    open     web-security
-443/tcp   open     reconnaissance
-1337/tcp  open     threat-intel
-```
-
-```text
-$ cat /proc/stack
-```
+<div align="center">
+    <img src="./assets/terminal_stack.svg" width="100%" alt="athx1337 /proc/stack" />
+</div>
 
 <div align="center">
     <!-- Languages -->
@@ -78,9 +52,9 @@ $ cat /proc/stack
     <img src="https://img.shields.io/badge/Threat_Intelligence-00C853?style=for-the-badge&labelColor=030303" alt="Threat Intelligence" />
 </div>
 
-```text
-$ ls -la ~/projects
-```
+<div align="center">
+    <img src="./assets/terminal_projects.svg" width="100%" alt="athx1337 Projects" />
+</div>
 
 * `drwxr-xr-x` &nbsp; **[`NUMDOX/`](https://github.com/athx1337/numdox)** `[ACTIVE]` - phone OSINT
 * `drwxr-xr-x` &nbsp; **[`WEBTRACE/`](https://github.com/athx1337/webtrace)** - domain reconnaissance
@@ -93,9 +67,9 @@ $ ls -la ~/projects
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
 </p>
 
-```text
-$ ./connect.sh
-```
+<div align="center">
+    <img src="./assets/terminal_connect.svg" width="100%" alt="athx1337 Connect" />
+</div>
 
 &nbsp;&nbsp;→ **GitHub** : [@athx1337](https://github.com/athx1337)
 
