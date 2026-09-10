@@ -3,38 +3,92 @@
     <img src="./assets/cyberpunk_header.svg?v=3" width="100%" alt="athx1337 Netrunner System Header" />
 </div>
 
-> [!WARNING]
-> **OBSERVING...**
+```text
+$ whoami
 
----
+athx1337
+```
 
-## 💻 Tech Stack
+I've had computers, phones, and random tech around me since I was a kid. My dad is basically where it all started for me—he’s my hero. He taught me random basic stuff on the PC and showed me how to use Google back when I was just searching for pictures of cartoon characters and falling down endless rabbit holes. That curiosity never really went away.
+
+Then came PC gaming, messing with computers more, and eventually getting pulled into the darker corners of the internet. Hacking, forums, random tools, all that shit. The CSGO HvH era was probably where things really shifted. Getting into configs, trying different stuff, figuring out why shit worked the way it did, and finding my way into invite-only forums and smaller underground communities where people were constantly yapping about vulns and questionable shit.
+
+At some point I did some questionable stuff myself, trusted someone I shouldn't have, and got betrayed. That whole thing kinda changed the direction I was going in. Instead of just fucking around with whatever tool came next, I started wanting to actually understand what was happening underneath.
+
+And that's pretty much how I ended up in cybersecurity. Now I'm mostly focused on figuring out how shit works, building my own tools, breaking things in controlled environments, and learning more about security. Funny to think it all started with my dad teaching me how to search for cartoon pictures.
+
+```text
+$ echo $STATUS
+
+stargazing.
+```
+
+```text
+$ cat interests.txt
+
+OSINT
+RECON
+WEB SECURITY
+THREAT INTELLIGENCE
+DIGITAL FORENSICS
+REVERSE ENGINEERING
+SECURITY TOOLING
+```
+
+```text
+$ cat stack.env
+```
 
 <div align="center">
-    <!-- Languages & Frameworks -->
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=030303" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=030303" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=030303" /><br/>
-    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7&labelColor=030303" />
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white&labelColor=030303" /><br/>
-    <!-- Cybersecurity Tools -->
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C95?style=for-the-badge&logo=Kali%20Linux&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/Burp%20Suite-FF6600?style=for-the-badge&logo=PortSwigger&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/Wireshark-167CBE?style=for-the-badge&logo=Wireshark&logoColor=white&labelColor=030303" />
-    <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=Metasploit&logoColor=white&labelColor=030303" />
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=030303" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=030303" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=030303" alt="Python" /><br/>
+    <!-- Build & Web -->
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=030303" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=030303" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white&labelColor=030303" alt="Vite" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=030303" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=030303" alt="Node.js" /><br/>
+    <!-- Backend & Infrastructure -->
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=030303" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white&labelColor=030303" alt="Hono" />
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=030303" alt="Cloudflare Workers" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=030303" alt="PostgreSQL" /><br/>
+    <!-- Cybersecurity Focus -->
+    <img src="https://img.shields.io/badge/OSINT-00C853?style=for-the-badge&labelColor=030303" alt="OSINT" />
+    <img src="https://img.shields.io/badge/Reconnaissance-00C853?style=for-the-badge&labelColor=030303" alt="Reconnaissance" />
+    <img src="https://img.shields.io/badge/Web_Security-00C853?style=for-the-badge&labelColor=030303" alt="Web Security" />
+    <img src="https://img.shields.io/badge/Threat_Intelligence-00C853?style=for-the-badge&labelColor=030303" alt="Threat Intelligence" />
 </div>
 
-## 📊 GitHub Stats
+```text
+$ cat currently.txt
+
+building : NUMDOX
+learning : cybersecurity
+```
+
+```text
+$ ls ~/projects
+```
+
+* 🟢 **[`NUMDOX/`](https://github.com/athx1337/numdox)** — phone OSINT / public identity intelligence `[current]`
+* **[`WEBTRACE/`](https://github.com/athx1337/webtrace)** — domain reconnaissance / attack-surface intelligence
+* **[`VOIDTRACE/`](https://github.com/athx1337/voidtrace)** — IP intelligence / reputation analysis
+* **[`PHISHX/`](https://github.com/athx1337/phishX)** — phishing / malicious URL analysis
+* **[`0TRACE/`](https://github.com/athx1337/0trace)** — unified security tooling / terminal suite
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
 </p>
+
+```text
+$ ./connect.sh
+```
+
+* **GitHub** &nbsp;→&nbsp; [@athx1337](https://github.com/athx1337)
 
 ---
 
