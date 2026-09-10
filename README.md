@@ -63,8 +63,8 @@ Now I'm mostly focused on figuring out how shit works, building my own tools, br
 * `drwxr-xr-x` &nbsp; **[`0TRACE/`](https://github.com/athx1337/0trace)** - security toolkit
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" />
+    <img src="https://github-stats-extended.vercel.app/api?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&title_color=fcee0a&text_color=ffffff&icon_color=00f0ff" height="150" alt="athx1337 GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" alt="Top Languages" />
 </p>
 
 <div align="center">
@@ -76,5 +76,5 @@ Now I'm mostly focused on figuring out how shit works, building my own tools, br
 ---
 
 <div align="center">
-    <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=athx1337&icon=1&color=6" /></a>
+    <img src="https://komarev.com/ghpvc/?username=athx1337&color=00f0ff&style=for-the-badge&label=VISITS&labelColor=030303" alt="Profile Visits" />
 </div>
