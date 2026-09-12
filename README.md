@@ -14,9 +14,9 @@ At some point I did some questionable stuff myself, trusted someone I shouldn't 
     <img src="./assets/terminal_session.svg?v=1" width="100%" alt="athx1337 Terminal Session" />
 </div>
 
-```text
-$ cat /proc/stack
-```
+<div align="center">
+    <img src="./assets/terminal_stack.svg?v=1" width="100%" alt="athx1337 /proc/stack" />
+</div>
 
 <div align="center">
     <!-- Languages -->
@@ -46,9 +46,9 @@ $ cat /proc/stack
     <img src="https://img.shields.io/badge/Threat_Intelligence-00C853?style=for-the-badge&labelColor=030303" alt="Threat Intelligence" />
 </div>
 
-```text
-$ ls -la ~/projects
-```
+<div align="center">
+    <img src="./assets/terminal_projects.svg?v=1" width="100%" alt="athx1337 Projects" />
+</div>
 
 * `drwxr-xr-x` &nbsp; **[`NUMDOX/`](https://github.com/athx1337/numdox)** `[ACTIVE]` - phone OSINT
 * `drwxr-xr-x` &nbsp; **[`WEBTRACE/`](https://github.com/athx1337/webtrace)** - domain reconnaissance
@@ -61,9 +61,9 @@ $ ls -la ~/projects
     <img src="https://github-stats-extended.vercel.app/api/top-langs?username=athx1337&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact&title_color=fcee0a&text_color=ffffff" height="150" alt="Top Languages" />
 </p>
 
-```text
-$ ./connect.sh
-```
+<div align="center">
+    <img src="./assets/terminal_connect.svg?v=1" width="100%" alt="athx1337 Connect" />
+</div>
 
 &nbsp;&nbsp;→ **GitHub** : [@athx1337](https://github.com/athx1337)
 
