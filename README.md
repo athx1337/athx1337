@@ -10,30 +10,9 @@ Then came PC gaming, messing with computers more, and eventually getting pulled 
 
 At some point I did some questionable stuff myself, trusted someone I shouldn't have, and got betrayed. That whole thing kinda changed the direction I was going in. Instead of just fucking around with whatever tool came next, I started wanting to actually understand what was happening underneath. And that's pretty much how I ended up in cybersecurity. Now I'm mostly focused on figuring out how shit works, building my own tools, breaking things in controlled environments, and learning more about security. Funny to think it all started with my dad teaching me how to search for cartoon pictures.
 
-```text
-$ echo $STATUS
-stargazing.
-```
-
-```text
-$ cat interests.txt
-OSINT
-RECON
-WEB SECURITY
-THREAT INTELLIGENCE
-DIGITAL FORENSICS
-REVERSE ENGINEERING
-SECURITY TOOLING
-```
-
-```text
-$ nmap -sV athx1337
-PORT      STATE    SERVICE
-22/tcp    open     osint
-80/tcp    open     web-security
-443/tcp   open     reconnaissance
-1337/tcp  open     threat-intel
-```
+<div align="center">
+    <img src="./assets/terminal_session.svg?v=1" width="100%" alt="athx1337 Terminal Session" />
+</div>
 
 ```text
 $ cat /proc/stack
