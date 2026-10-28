@@ -4,7 +4,7 @@
     <p><code>OSINT / RECON / SECURITY TOOLING</code></p>
 </div>
 
-I've had computers, phones, and random tech around me since I was a kid. My dad is basically where it all started for me. He's my hero. He taught me random basic stuff on the PC and showed me how to use Google back when I was just searching for pictures of cartoon characters and falling down endless rabbit holes. That curiosity never really went away.
+I've had computers, phones, and random tech around me since I was a kid. My dad is basically where it all started for me. He taught me random basic stuff on the PC and showed me how to use Google back when I was just searching for pictures of cartoon characters and falling down endless rabbit holes. That curiosity never really went away.
 
 Then came PC gaming, messing with computers more, and eventually getting pulled into the darker corners of the internet. Hacking, forums, random tools, all that shit. The CSGO HvH era was probably where things really shifted. Getting into configs, trying different stuff, figuring out why shit worked the way it did, and finding my way into invite-only forums and smaller underground communities where people were constantly yapping about vulns and questionable shit.
 
