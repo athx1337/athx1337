@@ -4,12 +4,6 @@
     <p><code>OSINT / RECON / SECURITY TOOLING</code></p>
 </div>
 
-I've had computers, phones, and random tech around me since I was a kid. My dad is basically where it all started for me. He taught me random basic stuff on the PC and showed me how to use Google back when I was just searching for pictures of cartoon characters and falling down endless rabbit holes. That curiosity never really went away.
-
-Then came PC gaming, messing with computers more, and eventually getting pulled into the darker corners of the internet. Hacking, forums, random tools, all that shit. The CSGO HvH era was probably where things really shifted. Getting into configs, trying different stuff, figuring out why shit worked the way it did, and finding my way into invite-only forums and smaller underground communities where people were constantly yapping about vulns and questionable shit.
-
-At some point I did some questionable stuff myself, trusted someone I shouldn't have, and got betrayed. That whole thing kinda changed the direction I was going in. Instead of just fucking around with whatever tool came next, I started wanting to actually understand what was happening underneath. And that's pretty much how I ended up in cybersecurity. Now I'm mostly focused on figuring out how shit works, building my own tools, breaking things in controlled environments, and learning more about security. Funny to think it all started with my dad teaching me how to search for cartoon pictures.
-
 <div align="center">
     <img src="./assets/terminal_session.svg?v=1" width="100%" alt="athx1337 Terminal Session" />
 </div>
